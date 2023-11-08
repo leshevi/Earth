@@ -6,10 +6,10 @@ html {
 body {
     overflow: hidden;
     position: relative;
-    width: 1200px;
-    height: 800px;
+    width: 1950px;
+    height: 1270px;
     background-size: cover;
-    background: url("cloud-01.jpg");
+    background: url("maxresdefault.jpg");
 }
 
 .container {
